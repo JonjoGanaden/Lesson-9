@@ -1,0 +1,8 @@
+C:\Users\jonjo\Desktop\AWS\Lesson 9\Client\bin\Debug\Client.exe.config
+C:\Users\jonjo\Desktop\AWS\Lesson 9\Client\bin\Debug\Client.exe
+C:\Users\jonjo\Desktop\AWS\Lesson 9\Client\bin\Debug\Client.pdb
+C:\Users\jonjo\Desktop\AWS\Lesson 9\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+C:\Users\jonjo\Desktop\AWS\Lesson 9\Client\obj\Debug\Client.csproj.SuggestedBindingRedirects.cache
+C:\Users\jonjo\Desktop\AWS\Lesson 9\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\jonjo\Desktop\AWS\Lesson 9\Client\obj\Debug\Client.exe
+C:\Users\jonjo\Desktop\AWS\Lesson 9\Client\obj\Debug\Client.pdb
